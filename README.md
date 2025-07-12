@@ -1,2 +1,2 @@
-# outline
+# docker-compose up
 # outline
